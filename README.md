@@ -1,11 +1,11 @@
-The easy way to get real world data into your computer
-======================================================
+The easy way to get real world data into your app
+=================================================
 
 Getting started
 ---------------
 
 1. Plug your sensor wires into HEINS
-2. Connect HEINS to your computer.
+2. Connect HEINS over Ethernet to your computer.
 3. Power on
 4. Send a REST-API-request or subscribe to the HEINS internal MQ-Server
 
@@ -16,12 +16,14 @@ Features
 
 HEINS - Small I/O-Device under Open Hardware licence 
 
-- to allocate up to 10 digital or analog signals, voltage level 0...24 VDC
+- to allocate up to 10 digital or analog signals, voltage level from 0 V up to 24 VDC
+
 - Industrial terminal connectors
 
 - to get these data from HEINS into your computer over a REST-API
 
 - to subscribe these data from the HEINS internal MQ-Server with the MQTT-protocol
+
 - to send these data from HEINS to an external MQ-Server, i.e. cloud service
 
 - to connect to a network over LAN-Terminal (RJ45) over Ethernet/IP
