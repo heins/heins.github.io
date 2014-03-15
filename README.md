@@ -18,7 +18,7 @@ HEINS - Small I/O-Device under Open Hardware licence
 
 - to allocate up to 10 digital or analog signals, voltage level from 0 V up to 24 VDC
 
-- Industrial terminal connectors
+- Industrial terminal connectors for each sensor, power supply included (signal, Vcc and GND)
 
 - to get these data from HEINS into your computer over a REST-API
 
