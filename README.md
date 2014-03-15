@@ -24,11 +24,11 @@ HEINS - Small I/O-Device under Open Hardware licence
 
 - to get these data from HEINS into your computer over a REST-API
 
-- to subscribe these data from the HEINS internal MQ-Server with the MQTT-protocol
+- to subscribe these data from the HEINS internal MQ-Server using the MQTT-protocol
 
-- to send these data from HEINS to an external MQ-Server, i.e. cloud service
+- to publish these data from HEINS to an external MQ-Server, i.e. cloud service
 
-- to connect to a network over LAN-Terminal (RJ45) over Ethernet/IP
+- to connect to an Ethernet network over LAN-Terminal (RJ45) using TCP/IP
 
 - Power supply 24 VDC, DC-Jack or industrial terminal connectors
 
