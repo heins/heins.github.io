@@ -28,4 +28,4 @@ HEINS - Small I/O-Device under Open Hardware licence
 
 - to connect to a network over LAN-Terminal (RJ45) over Ethernet/IP
 
-- Power supply 24 VDC, DC-Jack oder industrial terminal connectors
+- Power supply 24 VDC, DC-Jack or industrial terminal connectors
