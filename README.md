@@ -9,7 +9,7 @@ Getting started
 3. Power on
 4. Send a REST-API-request or subscribe to the HEINS internal MQ-Server
 
-Done!
+Done! Now you can start creating your own awesome app!
 
 Features
 --------
