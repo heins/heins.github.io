@@ -1,6 +1,7 @@
 The easy way to get real world data into your app
 =================================================
 
+
 Getting started
 ---------------
 
@@ -10,6 +11,7 @@ Getting started
 4. Send a REST-API-request or subscribe to the HEINS internal MQ-Server
 
 Done! Now you can start creating your own awesome app!
+
 
 Features
 --------
@@ -29,3 +31,10 @@ HEINS - Small I/O-Device under Open Hardware licence
 - to connect to a network over LAN-Terminal (RJ45) over Ethernet/IP
 
 - Power supply 24 VDC, DC-Jack or industrial terminal connectors
+
+
+Stay tuned!
+-----------
+
+
+
