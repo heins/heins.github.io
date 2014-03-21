@@ -12,6 +12,11 @@ Getting started
 
 Done! Now you can start creating your own awesome app!
 
+Vision
+------
+
+Our vision is to give software developers an easy device in their hands so that can connect their apps to the real world in a very easy way.
+
 
 Features
 --------
@@ -31,6 +36,23 @@ HEINS - Small I/O-Device under Open Hardware licence
 - to connect to an Ethernet network over LAN-Terminal (RJ45) using TCP/IP
 
 - Power supply 24 VDC, DC-Jack or industrial terminal connectors
+
+
+Free Open Source Project
+------------------------
+
+HEINS is an Free Open Source Project. That means, that both the hardware and the core-software are Free Open Source (like MIT-Licence). 
+
+Our Team
+--------
+
+We are an european team of hardware designers, software frontend and backend developers, graphic designers, marketing guys interested in doing cool stuff.
+
+
+Contribution
+------------
+
+If your like to contribute to the HEINS-project please get in contact.
 
 
 Stay tuned!
