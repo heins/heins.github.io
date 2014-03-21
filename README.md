@@ -15,7 +15,7 @@ Done! Now you can start creating your own awesome app!
 Vision
 ------
 
-Our vision is to give software developers an easy device in their hands so that can connect their apps to the real world in a very easy way.
+Our vision is to give software developers an easy device in their hands so they can connect their apps to the real world in a very easy way.
 
 
 Features
@@ -46,7 +46,7 @@ HEINS is an Free Open Source Project. That means, that both the hardware and the
 Our Team
 --------
 
-We are an european team of hardware designers, software frontend and backend developers, graphic designers, marketing guys interested in doing cool stuff.
+We are an european team of hardware designers, software frontend and backend developers, graphic designers and  marketing guys interested in doing cool stuff for the Internet of Things..
 
 
 Contribution
