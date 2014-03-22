@@ -1,4 +1,4 @@
-Automatic Generates Website for www.heins.io
+Automatic generated website for www.heins.io
 
 
 
