@@ -37,6 +37,11 @@ HEINS - Small I/O-Device under Open Hardware licence
 
 - Power supply 24 VDC, DC-Jack or industrial terminal connectors
 
+Use Cases
+---------
+
+... tbd ...
+
 
 Free Open Source Project
 ------------------------
@@ -53,6 +58,32 @@ Contribution
 ------------
 
 If your like to contribute to the HEINS-project please get in contact.
+
+Github: www.github.com/heins
+Google Groups: groups.google.com/d/forum/heins_io
+Mailinglist: heins_io@googlegroups.com
+
+Newsletter
+----------
+
+... tdb ...
+
+Contact
+-------
+
+www.heins.io
+Email: info@heins.io
+Twitter: @heins_io
+
+Imprint
+-------
+
+HEINS I/O-Hardware Open Source Project
+c/o Stefan Hupe
+Lokstedter Damm 18
+D-22453 Hamburg
+Germany
+Email: stefan@heins.io
 
 
 Stay tuned!
